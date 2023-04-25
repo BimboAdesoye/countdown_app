@@ -72,8 +72,6 @@ let hoursEl = document.getElementById("hours");
 let minsEl = document.getElementById("minutes");
 let secondsEl = document.getElementById("seconds");
 
-let xx = document.querySelector("#hours");
-let xy = document.querySelector("#days");
 const newYears = "1 Jan 2024";
 
 function countdown() {
